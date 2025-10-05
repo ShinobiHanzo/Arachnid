@@ -11,3 +11,5 @@
 - **Cross-Platform Support**: Tailored implementations for Windows (`ReadProcessMemory`), Linux/Android (`process_vm_readv`), and macOS/iOS (`mach_vm_read_overwrite`).
 
 Arachnid is ideal for debugging, reverse engineering, or analyzing memory usage, but requires appropriate permissions (e.g., root or admin for cross-process access). Use responsibly and ensure compliance with applicable laws and security policies.
+
+the `android.mk` file is for those who want to run the script on an android device.
