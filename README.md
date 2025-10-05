@@ -1,4 +1,4 @@
-# Arachnid - Memory Inspection and Injection Tool
+# Arachnid - Memory Inspection Tool
 
 **Arachnid** is a cross-platform command-line tool for inspecting and manipulating process memory. It provides detailed insights into a process's memory layout, allowing users to view memory sectors, their attributes, and contents in a hex dump format. Designed for developers, security researchers, and system administrators, Arachnid supports Windows, Linux, macOS, Android, and iOS, with platform-specific optimizations to handle memory access and permissions.
 
